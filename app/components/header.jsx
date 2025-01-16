@@ -20,8 +20,7 @@ const Header = () => {
 
                 Bienvenido a mi portafolio web 👋. Aquí encontrarás mis <strong>proyectos destacados</strong>,
                 una copia actualizada de mi <strong>currículum</strong> y una forma sencilla de <strong>contactarme</strong> para nuevas oportunidades.
-                Con experiencia en desarrollo web, móvil y backend, estoy listo para colaborar en nuevos desafíos.
-                ¡Explora mi trabajo y hablemos!
+                
 
 
             </p>
