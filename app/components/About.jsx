@@ -19,7 +19,7 @@ function About() {
 
                     <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
                         {infoList.map(({icon, iconDark, title, description}, index)=>(
-                            <li className='border-[0.5px] border-x-gray-400 rounded-xl p-6
+                            <li className='border-[0.5px] border-gray-400 rounded-xl p-6
                             cursor-pointer hover:bg-ligthHover hover:-translate-y-1 duration-500 hover:shadow-black' key={index}>
                                 <Image src={icon} alt={title}/>
                                 <h3>{title}</h3>
